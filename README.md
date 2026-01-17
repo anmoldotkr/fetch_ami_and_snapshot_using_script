@@ -1,1 +1,1 @@
-# fetch_ami_and_snapshot_using_script
+# fetch_ami_and_snapshot_using_python_script
