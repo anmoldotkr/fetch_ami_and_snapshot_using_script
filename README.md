@@ -1,0 +1,1 @@
+# fetch_ami_and_snapshot_using_script
